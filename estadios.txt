@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="utf-8">
+        <title>Estádios da Copa 2022</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css" media="screen"/>
+</head>
+<body>
+    <main>
+        <section>
+        <div class="cabecalho">
+        <br>
+        <ul>
+          <li> <a href= "indexprojeto.html" target="blank"> Inicial </a></li>
+          <li> <a href= "selecoes.html"target="blank"> Seleções </a></li>
+          <li> <a href= "estadios.html"target="blank"> Estádios </a></li>
+          <li> <a href= "grupos.html"target="blank"> Grupos</a></li>
+        </ul>
+    </nav>
+</section>
+<section>
+        <img src="estadios.jpg" alt="estádios" display:flex; height="70%" width="100%">
+</section>
+<section>
+    <div class="container">
+      <h2>Programação</h2>
+      <p>A Copa do Mundo terá início em 21 de novembro e final em 18 de dezembro. Iniciará com a fase de grupos de 21 de novembro a 2 de dezembro. Em seguida, serão as oitavas de final de 3 de dezembro a 6 de dezembro. As quartas de final de 9 a 10 de dezembro. As semifinais de 13 a 14 de dezembro. A disputa de 3º lugar em 17 de dezembro e a final em 18 de dezembro. A programação geral está disposta a seguir. </p><br>
+        <img src="programacaocopa.jpg" height="50%"; width="100%">
+        <div class="card">
+          <h2>Estádio Lusail</h2>
+          <img src="Lusail.jpg" height="35%"; width="100%">
+          <p> O Estádio Nacional de Lusail vai receber o jogo de abertura e a final da Copa do Mundo de 2022. Foi inaugurado em 22 de novembro de 2021 e tem capacidade aproximada de 86.000 pessoas. Com estrutura inspirada nas antigas técnicas artesanais árabes de tecelagem de cestos, o estádio tem tudo para proporcionar uma abertura e encerramento inesquecíveis para o torneio.A arena fica em Lusail e terá, em suas proximidades,uma ampla variedade de atrações, incluindo marinas, resorts, lojas de grife, instalações de lazer e muito mais. Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>22/11- Argentina x Arábia Saudita- 13h</li><li>24/11-Brasil x Sérvia-22h</li><li>26/11-Argentina x México- 22h</li><li>28/11- Portugal x Uruguai- 22h</li><li>30/11-Arábia Saudita x México- 22h</li><li>02/12-Camarões x Brasil- 22h</li><li>06/12- 1H x 2G- 22h</li><li>09/12- W49 x W50- 22h</li><li>13/12- W57 x W58- 22h</li><li>18/12- Final- 18h</li></aside></p></br>
+          <img src="programacaoLusail.jpg" height="15%"; width="100%"> 
+        </div>
+       <div class="card">
+        <h2>Estádio Khalifa</h2>
+         <img src="khalifa.jpg" height="35%"; width="100%">
+          <p> O Khalifa é a arena mais famosa do país e existe desde 1976. O estádio multi-uso está localizado em Doha e possui capacidade para 40.000 torcedores e receberá jogos até a fase das quartas de final da Copa. Possui tecnologia avançada de refrigeração e arquitetura moderna em forma de arco duplo.Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>21/11- Inglaterra x Irlanda- 16h</li><li>23/11-Alemanha x Japão-16h</li><li>25/11-Holanda x Equador- 19h</li><li>27/11- Croácia x Canadá- 19h</li><li>29/11- Equador x Senegal- 18h</li><li>01/12-Japão x Espanha- 22h</li><li>03/12- 1A x 2B- 18h</li><li>17/12-3° lugar-18h</li></ol></aside>
+        </br>
+          <img src="programacaoKhalifa.jpg" height="15%"; width="100%">
+        </div>
+    
+        <div class="card">
+          <h2> Estádio Al-Bayt</h2>
+          <img src="Al-Bayt.jpg" height="35%"; width="100%">
+          <p> O Estádio Al-Bayt fica na cidade de Al-Khor e receberá o show de abertura. A arena tem um design que lembra as tendas usadas pelo povo beduíno, grupo nômade que vive pelo mundo árabe há séculos. O estádio de 60.000 lugares ficará em um complexo mais amplo, com shopping center, hospital e muito mais. Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>21/11- Qatar x Equador- 19h</li><li>23/11-Marrocos x Croácia-13h</li><li>25/11-Inglaterra x Estados Unidos- 22h</li><li>27/11- Espanha x Alemanha- 22h</li><li>29/11- Holanda x Qatar- 18h</li><li>01/12-ICP2 x Alemanha- 22h</li><li>04/12- 1B x 2A- 22h</li><li>10/12-W51 x W52- 22h</li><li>14/12- W59 x W60- 22h</li></ol></aside> </br>
+          <img src="programacaoAlBayt.jpg" height="15%"; width="100%">
+        </div>
+    
+        <div class="card">
+        <h2>Estádio Al-Janoub</h2>
+        <img src="Al-Janoub.jpg" height="35%"; width="100%">
+          <p> O estádio Al-Janoub é uma arena impressionante em Al Wakrah, com capacidade aproximada de 40.000 pessoas. O elegante estádio do Catar, projetado pela renomada Dame Zaha Hadid, foi inspirado nos cascos dos barcos de pesca de pérolas que atuavam na Península Arábica. Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>22/11- França x ICP1- 22h</li><li>24/11-Suiça x Camarões-13h</li><li>26/11-Tunísia x ICP1- 13h</li><li>28/11- Camarões x Sérvia- 13h</li><li>30/11- ICP1 x Dinamarca- 18h</li><li>02/12-Guanax Uruguai- 18h</li><li>05/12- 1E x 2F- 18h</li></aside></br>
+          <img src="programacaojanoub.jpg" height="15%"; width="100%">
+        </div>
+        <div class="card">
+          <h2>Estádio Education City</h2>
+          <img src="Education-City.jpg" height="35%"; width="100%">
+          <p> O Estádio Education City é uma arena de 40.000 lugares, em , Al Rayyan, que receberá partidas até a fase de quartas de final da Copa do Mundo de 2022 no Catar. Está localizado no campus da principal universidade do Catar. Projetado na forma de um diamante irregular para se destacar na paisagem durante o dia e literalmente brilhar à noite. A área é repleta de espaços verdes, tem um campo de golfe e até um moderno shopping center.Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>22/11- Dinamarca x Tunísia- 16h</li><li>24/11-Uruguai x Coréia-16h</li><li>26/11-Polônia x Arábia Saudita- 16hh</li><li>28/11- Coréia x Guana- 16h</li><li>30/11- Tunísia x França- 18h</li><li>02/12-Coréia x Portugal- 18h</li><li>06/12- 1F x 2E- 18h</li><li>09/12- W53 x W54- 18h</li></aside></br>
+          <img src="programacaoeducation.jpg" height="15%"; width="100%">
+        </div>
+    
+        <div class="card">
+          <h2>Estádio Al-Rayyan</h2>
+          <img src="Al-Rayyan.jpg" height="35%"; width="100%">
+          <p> O Al-Rayyan tem capacidade para mais de 40.000 pessoas e, por isso, receberá partidas até a fase de quartas de final. Localizado em uma das cidades mais tradicionais e históricas do Catar, Al-Rayyan, fica à beira do deserto e vai permitir que os visitantes conheçam as profundas raízes culturais do Catar.Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>21/11- Estados Unidos x Rep.Europeia- 22h</li><li>23/11-Bélgica x Canadá-22h</li><li>25/11- Rep.Europeia x Irã- 13h</li><li>27/11- Japão x ICP2- 13h</li><li>29/11- Rep.Europeia x Inglaterra- 22h</li><li>01/12-Croácia x Bélgica- 18h</li><li>03/12- 1C x 2D- 22h</li></aside></br>
+          <img src="programacaoAhmad.jpg" height="15%"; width="100%">
+        </div>
+    
+        <div class="card">
+          <h2>Estádio Al-Thumama </h2>
+          <img src="Al-Thumama.jpg" height="35%"; width="100%">
+          <p>A apenas 12 quilômetros do centro de Doha, o estádio Al-Thumama terá 40.000 lugares. O belo design dessa arena é inspirado na gahfiya, a tradicional touca usada pelos homens árabes. Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>21/11- Senegal x Holanda- 13h</li><li>23/11-Espanha x ICP2-19h</li><li>25/11-Qatar x Senegal- 16h</li><li>27/11- Bélgica x Marrocos- 16h</li><li>29/11- Irã x Estados Unidos- 22h</li><li>01/12-Canadá x Marrocos- 18h</li><li>04/12- 1D x 2C- 18h</li><li>10/12- W55 x W56- 18h</li></aside></br>
+          <img src="programacaoAlThumama.jpg" height="15%"; width="100%">
+        </div>
+    
+        <div class="card">
+          <h2>Estádio Ras Abu Aboud</h2>
+          <img class="imagemtabela" src="RasAbuAboud.jpg" height="35%"; width="100%">
+          <p> Com 40.000 lugares às margens do Golfo, o Estádio Ras Abu Aboud é um triunfo da sustentabilidade que fica a poucos quilômetros de distância de Doha e tem vista para a cidade. Feito a partir de contêineres e outros materiais reaproveitados, o estádio localiza-se à beira-mar. Receberá jogos de acordo com a programação a seguir.</p>
+          <aside><ol><li>22/11- México x Polônia- 19h</li><li>24/11-Portugal x Gana-19h</li><li>26/11-França x Dinamarca- 19h</li><li>28/11- Brasil x Suíça- 19h</li><li>30/11-Polônia x Argentina- 22h</li><li>02/12-Sérvia x Suiça- 22h</li><li>05/12- 1G x 2H- 22h</li></aside></p></br>
+            <img src="programacao974.jpg" height="15%"; width="100%">
+        </div>      
+    </div>
+</section>
+</main>
+    </body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+        <meta charset="utf-8">
+        <title>Grupos da Copa de 2022</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css" media="screen"/>
+</head>
+<body>
+<section>
+        <div class="cabecalho">
+        <br>
+        <ul>
+            <li> <a href= "indexprojeto.html" target="blank"> Inicial </a></li>
+            <li> <a href= "selecoes.html"target="blank"> Seleções </a></li>
+            <li> <a href= "estadios.html"target="blank"> Estádios </a></li>
+            <li> <a href= "grupos.html"target="blank"> Grupos</a></li>
+        </ul>
+</section>
+<section>
+        <img src="grupos.jpg" alt="grupos" height="50%" width="100%" padding-top: 10px padding-bottom: 10 px>
+</section>
+<section>
+  <h2> Divisão por Grupos</h2>
+    <div class="container">
+      
+         <table>
+          <h2>Copa 2022: oito grupos</h2>
+           <tr>
+                 <td class="colunaselecoes"> A  </td>
+                 <td class="colunaselecoes"> Catar, Equador, Senegal, Holanda</td>
+          </tr>
+          <tr>
+                 <td class="colunaselecoes"> B</td>
+                 <td class="colunaselecoes">Inglaterra, Irã, Estados Unidos, Gales/Escócia/Ucrânia</td>
+           </tr>
+          <tr>
+                 <td class="colunaselecoes"> C</td>
+                 <td class="colunaselecoes"> Argentina, Arábia Saudita, México, Polônia</td>
+          </tr>
+          <tr>
+                 <td class="colunaselecoes"> D</td>
+                 <td class="colunaselecoes">França, Peru/Emirados Árabes/Austrália, Dinamarca, Tunísia</td>
+          
+          </tr>
+          <tr>
+                 <td class="colunaselecoes">E</td>
+                 <td class="colunaselecoes">Espanha, Costa Rica/Nova Zelândia, Alemanha, Japão</td>
+          </tr>
+          <tr>
+                 <td class="colunaselecoes"> F</td>
+                 <td class="colunaselecoes">Bélgica, Canadá, Marrocos, Croácia</td>
+          </tr>
+          <tr>
+                 <td class="colunaselecoes">G</td>
+                 <td class="colunaselecoes">Brasil, Sérvia, Suíça, Camarões</td>
+          </tr>
+          <tr>
+                 <td class="colunaselecoes"> H</td>
+                 <td class="colunaselecoes">Portugal, Gana, Uruguai, Coreia do Sul</td>
+          </tr>
+          </table>
+    
+        <div class="card">
+          <h2>Forma de seleção de grupos</h2>
+          <table><p>A Fifa definiu no dia 1 de abril de 2022, por meio de sorteio, os oito grupos da Copa do Mundo 2022. Vale lembrar que três vagas seguem em aberto para o Mundial, sendo duas delas de repescagens e outra do playoff de repescagem da Europa. </p><br>
+            <img src="classificados.jpeg" height="50%"; width="100%">
+                      
+    <h1>Grupo A<h1>
+       <aside><ol style="text-align:justify"><li>21/11-7h- Senegal x Holanda </li><li>21/11- 13h- Catar x Equador (Al Bayt Stadium, Al Khor)</li><li>25/11- 10h - Catar x Senegal</li><li>25/11-13h - Holanda x Equador</li><li>29/11-12h - Holanda x Catar</li> <li>29/11-12h - Equador x Senegal</li><li>03/12 (Oitavas de final 1) 12h – 1º do grupo A x 2º do grupo B – Khalifa Stadium</li><li>04/12 (Oitavas de final 4) 16h – 1º do grupo B x 2º do grupo A – Al Bayt Stadium, Al Khor</li></ol></aside> </br>
+
+     <h1>Grupo B<h1>
+        <aside><ol style="text-align:justify"><li> 21/11-10h - Inglaterra x Irã</li><li>21/11- Estados Unidos x Escócia, País de Gales ou Ucrânia</li><li>25/11 7h - Escócia, País de Gales ou Ucrânia x Irã</li><li>25/11 16h - Inglaterra x Estados Unidos</li><li>29/11- 16h - Escócia, País de Gales ou Ucrânia x Inglaterra</li><li>29/11- 16h - Irã x Estados Unidos</li><li>03/12 (Oitavas de final 1)-12h – 1º do grupo A x 2º do grupo B – Khalifa Stadium</li><li>04/12(Oitavas de final 4)-16h – 1º do grupo B x 2º do grupo A – Al Bayt Stadium</li></ol></aside> </br>
+      <h1>Grupo C<h1>
+         <aside><ol style="text-align:justify"><li> 22/11-7h - Argentina x Arábia Saudita</li><li>22/11- 13h - México x Polônia</li><li>26/11-10h - Polônia x Arábia Saudita  </li><li>26/11-16h - Argentina x México </li><li>30/11- 16h - Polônia x Argentina</li><li>30/11- 16h - Arábia Saudita x México </li><li>03/12 (Oitavas de final 2)16h – 1º do grupo C x 2º do grupo D – Ahmad Stadium</li><li>04/12 (Oitavas de final 3) 12h – 1º do grupo D x 2º do grupo C, Al Thumama Stadium</li></ol></aside> </br>
+   <h1>Grupo D<h1>
+          <aside><ol style="text-align:justify"><li>22/11 -10h - Dinamarca x Tunísia  </li><li>22/11 -16h - França x Austrália, Emirados Árabes ou Peru</li><li>26/11-7h - Tunísia x Austrália, Emirados Árabes ou Peru </li><li>26/11-13h - França x Dinamarca </li><li>30/11 -12h - Tunísia x França </li><li>30/11-12h - Austrália, Emirados Árabes ou Peru x Dinamarca</li><li>03/12 (Oitavas de final 2)-16h – 1º do grupo C x 2º do grupo D – Ahmad Stadium</li><li>04/12 (Oitavas de final 3)-12h – 1º do grupo D x 2º do grupo C – Al Thumama Stadium</li></ol></aside> </br>
+<h1>Grupo E<h1>
+    <aside><ol style="text-align:justify"><li>23/11- 10h - Alemanha x Japão</li><li>23/11- 13h - Espanha x Costa Rica ou Nova Zelândia</li><li>27/11-7h - Japão x Costa Rica ou Nova Zelândia</li><li>27/11-16h - Espanha x Alemanha</li><li>01/12-16h - Japão x Espanha</li><li>01/12-16h - Costa Rica ou Nova Zelândia x Alemanha</li><li>05/12 (Oitavas de final 5)-12h – 1º do grupo E x 2º do grupo F – Al Janoub Stadium</li><li>06/12 (Oitavas de final 7)-12h – 1º do grupo F x 2º do grupo E – Education Stadium</li></ol></aside> </br>
+<h1>Grupo F<h1>
+      <aside><ol style="text-align:justify"><li>23/11-7h-Marrocos x Croácia</li><li>23/11-16h - Bélgica x Canadá</li><li>27/11-10h - Bélgica x Marrocos</li><li>27/11-13h - Croácia x Canadá</li><li>01/12-12h - Croácia x Bélgica</li><li>01/12-12h - Canadá x Marrocos</li><li>05/12-(Oitavas de final 5)-12h – 1º do grupo E x 2º do grupo F – Al Janoub</li><li>06/12 (Oitavas de final 7)-12h – 1º do grupo F x 2º do grupo E – Education City Stadium</li></ol></aside> </br>
+ <h1>Grupo G<h1>
+        <aside><ol style="text-align:justify"><li>23/11-7h-Suíça x Camarões</li><li>23/11-16h-Brasil x Sérvia</li><li>28/11-7h-Camarões x Sérvia</li><li>28/11-13h-Brasil x Suíça</li><li>02/12-16h-Camarões x Brasil</li><li>02/12-16h-Sérvia x Suíça</li><li>05/12-(Oitavas de final 6)- 16h – 1º do grupo G x 2º do grupo H – Stadium 974</li><li>06/12 (Oitavas de final 8)-16h – 1º do grupo H x 2º do grupo G – Lusail Stadium</li></ol></aside> </br>
+<h1>Grupo H<h1>
+     <aside><ol style="text-align:justify"><li>24/11-10h - Uruguai x Coreia do Sul</li><li>24/11-10h - 13h - Portugal x Gana</li><li>28/11-10h - Coreia do Sul x Gana</li><li>28/11-16h - Portugal x Uruguai</li><li>02/12-12h - Coreia do Sul x Portugal</li><li>02/12-12h - Gana x Uruguai</li><li>05/12 (Oitavas de final 6)- 16h – 1º do grupo G x 2º do grupo H – Stadium 974
+      </li><li>06/12 (Oitavas de final 8)-16h – 1º do grupo H x 2º do grupo G – Lusail Stadium</li></ol></aside> </br>    
+</div>
+
+ </div>
+</section>
+</main>
+    </body>
+</html>
